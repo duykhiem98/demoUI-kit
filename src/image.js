@@ -1,0 +1,6 @@
+export const IC_USER  = require("../image/ic_user.png")
+export const HOME  = require("../image/home_address_450px.png")
+export const LOCK  = require("../image/lock_450px.png")
+export const EYE  = require("../image/eye_450px.png")
+export const PAD  = require("../image/number_pad_450px.png")
+export const SMS =require("../image/ic_sms.png")
